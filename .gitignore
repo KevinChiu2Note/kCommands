@@ -20,3 +20,6 @@ bin
 # idea stuffs
 .idea
 test
+
+# apple stuffs
+.DS_Store
